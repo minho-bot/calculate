@@ -5,3 +5,4 @@ exponent 구현
 제곱 기능 구현
 rebase 함
 tag 추가
+풀리퀘스트 하기 위해 변경
